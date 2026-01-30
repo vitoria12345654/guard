@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"dean","characterIndex":0,"characterName":"dean caminhando 1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"dean","traits":[],"initialLevel":1,"maxLevel":99,"name":"Herói Dean","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"merlin","characterIndex":0,"characterName":"merlin","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"merlin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Heroína Merlin","nickname":"","note":"","profile":""}
+]
